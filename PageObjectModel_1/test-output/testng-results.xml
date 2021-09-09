@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32642" started-at="2021-09-07T18:30:36 IST" finished-at="2021-09-07T18:31:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32642" started-at="2021-09-07T18:30:36 IST" finished-at="2021-09-07T18:31:09 IST">
+      <class name="tests.TC001_LoginLogout">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:tests.TC001_LoginLogout@b87145]" name="startReport" is-config="true" duration-ms="262" started-at="2021-09-07T18:30:36 IST" finished-at="2021-09-07T18:30:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setValues()[pri:0, instance:tests.TC001_LoginLogout@b87145]" name="setValues" is-config="true" duration-ms="2" started-at="2021-09-07T18:30:36 IST" finished-at="2021-09-07T18:30:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TC001_LoginLogout@b87145]" name="setUp" is-config="true" duration-ms="26855" started-at="2021-09-07T18:30:36 IST" finished-at="2021-09-07T18:31:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginLogout()[pri:0, instance:tests.TC001_LoginLogout@b87145]" name="loginLogout" duration-ms="4704" started-at="2021-09-07T18:31:03 IST" finished-at="2021-09-07T18:31:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TC001_LoginLogout@b87145]" name="tearDown" is-config="true" duration-ms="1029" started-at="2021-09-07T18:31:08 IST" finished-at="2021-09-07T18:31:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closeReport()[pri:0, instance:tests.TC001_LoginLogout@b87145]" name="closeReport" is-config="true" duration-ms="4" started-at="2021-09-07T18:31:09 IST" finished-at="2021-09-07T18:31:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- tests.TC001_LoginLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
